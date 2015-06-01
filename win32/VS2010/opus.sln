@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opus", "opus.vcxproj", "{219EC965-228A-1824-174D-96449D05F88A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "celt", "celt.vcxproj", "{245603E3-F580-41A5-9632-B25FE3372CBF}"
@@ -42,6 +44,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "silk_common", "silk_common.vcxproj", "{C303D2FC-FF97-49B8-9DDD-467B4C9A0B16}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "silk_fixed", "silk_fixed.vcxproj", "{8484C90D-1561-402F-A91D-2DB10F8C5171}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m", "m.vcxproj", "{79EED7A7-9D23-4A7C-9887-BFEEF039861E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,12 @@ Global
 		{8484C90D-1561-402F-A91D-2DB10F8C5171}.Release|Win32.Build.0 = Release|Win32
 		{8484C90D-1561-402F-A91D-2DB10F8C5171}.Release|x64.ActiveCfg = Release|x64
 		{8484C90D-1561-402F-A91D-2DB10F8C5171}.Release|x64.Build.0 = Release|x64
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|Win32.Build.0 = Debug|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|x64.ActiveCfg = Debug|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|Win32.ActiveCfg = Release|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|Win32.Build.0 = Release|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

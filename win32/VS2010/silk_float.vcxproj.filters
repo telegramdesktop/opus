@@ -21,13 +21,13 @@
     <ClInclude Include="..\..\win32\config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="main_FLP.h">
+    <ClInclude Include="..\..\silk\float\main_FLP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SigProc_FLP.h">
+    <ClInclude Include="..\..\silk\float\SigProc_FLP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="structs_FLP.h">
+    <ClInclude Include="..\..\silk\float\structs_FLP.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

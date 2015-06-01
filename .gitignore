@@ -59,8 +59,8 @@ doc/html
 doc/latex
 doc/man
 *.vcxproj.user
-opus.sdf
-opus.suo
+*.sdf
+*.suo
 package_version
 version.h
 celt/Debug
@@ -78,3 +78,4 @@ silk/float/x64
 src/Debug
 src/Release
 src/x64
+/win32/VS2010/Win32/
