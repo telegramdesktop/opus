@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opus", "opus.vcxproj", "{219EC965-228A-1824-174D-96449D05F88A}"
 EndProject
@@ -165,7 +165,8 @@ Global
 		{84DAA768-1A38-4312-BB61-4C78BB59E5B8}.ReleaseDLL|x64.Build.0 = ReleaseDLL|x64
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|Win32.ActiveCfg = Debug|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|Win32.Build.0 = Debug|Win32
-		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|x64.ActiveCfg = Debug|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|x64.ActiveCfg = Debug|x64
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Debug|x64.Build.0 = Debug|x64
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.DebugDLL_fixed|Win32.ActiveCfg = Debug|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.DebugDLL_fixed|Win32.Build.0 = Debug|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.DebugDLL_fixed|x64.ActiveCfg = Release|Win32
@@ -176,7 +177,8 @@ Global
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.DebugDLL|x64.Build.0 = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|Win32.ActiveCfg = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|Win32.Build.0 = Release|Win32
-		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|x64.ActiveCfg = Release|Win32
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|x64.ActiveCfg = Release|x64
+		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.Release|x64.Build.0 = Release|x64
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL_fixed|Win32.ActiveCfg = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL_fixed|Win32.Build.0 = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL_fixed|x64.ActiveCfg = Release|Win32
