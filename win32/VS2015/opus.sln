@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_opus_encode", "test_op
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "m", "m.vcxproj", "{79EED7A7-9D23-4A7C-9887-BFEEF039861E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ssp", "ssp.vcxproj", "{F23EDAF4-2021-4172-A5B7-B2A043C2C530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -185,6 +187,30 @@ Global
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL|Win32.Build.0 = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL|x64.ActiveCfg = Release|Win32
 		{79EED7A7-9D23-4A7C-9887-BFEEF039861E}.ReleaseDLL|x64.Build.0 = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Debug|Win32.Build.0 = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Debug|x64.ActiveCfg = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Debug|x64.Build.0 = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL_fixed|Win32.ActiveCfg = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL_fixed|Win32.Build.0 = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL_fixed|x64.ActiveCfg = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL_fixed|x64.Build.0 = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL|Win32.ActiveCfg = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL|Win32.Build.0 = Debug|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL|x64.ActiveCfg = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.DebugDLL|x64.Build.0 = Debug|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Release|Win32.ActiveCfg = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Release|Win32.Build.0 = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Release|x64.ActiveCfg = Release|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.Release|x64.Build.0 = Release|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL_fixed|Win32.ActiveCfg = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL_fixed|Win32.Build.0 = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL_fixed|x64.ActiveCfg = Release|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL_fixed|x64.Build.0 = Release|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL|Win32.ActiveCfg = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL|Win32.Build.0 = Release|Win32
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL|x64.ActiveCfg = Release|x64
+		{F23EDAF4-2021-4172-A5B7-B2A043C2C530}.ReleaseDLL|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
